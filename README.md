@@ -1,4 +1,4 @@
-# `.test.php` with Laravel + Pest Experiment
+# `.test.php` with Laravel + Pest
 
 This is an experiment to see if we can build a testing system similar to `bun:test` using Pest for Laravel.
 
